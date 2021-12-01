@@ -314,7 +314,7 @@ int main(){
     int game_type;
     int continues;
     cout <<endl;
-    cout << "\t\t\t----------- Welcome to TicToc Game -----------";
+    cout << "\t\t\t----------- Welcome to TicTAcTOE Game -----------";
     cout <<endl;
     cout <<endl;
     do{
